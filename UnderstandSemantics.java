@@ -1,6 +1,6 @@
 public class UnderstandSemantics{
 
-    public static class Turtle {
+    public static class Reptile {
         private String name;
 
         public String getName() {
@@ -8,7 +8,7 @@ public class UnderstandSemantics{
         }
     }
 
-    public static class Shark {
+    public static class Fish {
         private String name;
 
         public String getName() {
